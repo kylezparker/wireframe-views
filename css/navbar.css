@@ -1,0 +1,30 @@
+#fb {
+    color: rgb(66, 103, 178);
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+#ig {
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+#twitter {
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.nav-link {
+    color: black;
+    font-size: 20px;
+}
+
+.world-container {
+    display: flex;
+    padding-top: 20px;
+}
